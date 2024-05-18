@@ -110,7 +110,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions, suggestions, or discussions, feel free to open an issue or join our [Discussions](https://github.com/your-repo/discussions).
+For any questions, suggestions, or discussions, feel free to open an issue or join our [Discussions](https://github.com/ifhammohamed1111/Learn-by-Today/discussions).
 
 Happy Learning and Contributing!
 
