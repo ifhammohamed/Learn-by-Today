@@ -1,4 +1,4 @@
-##Variables
+## Variables
 
 Variables are used to store data values. In JavaScript, we can declare variables using `var`, `let`, and `const` keywords.
 
@@ -33,14 +33,6 @@ console.log("🚀 ~ score:", score);
 // Uncaught SyntaxError: Identifier 'score' has already been declared (at index.js:22:5)
 ```
 
----
+The changes made in this involve adding code snippets that demonstrate the declaration of variables using let, const, and var in JavaScript. It showcases how to assign values, reassign them, and the behavior of constants in JavaScript.
 
 ---
-
-## 2. Data Types
-
-In JavaScript, there are two types of data types:
-
-1. Primitive Data Types
-2. Reference Data Types
-3. Primitive Data Types
