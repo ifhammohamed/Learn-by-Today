@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Js - Variables</title>
+  </head>
+  <body>
+    <h1>JavaScript Variables</h1>
+
+    <p>JavaScript can "display" data in different ways:</p>
+
+    <p>
+      Place script tags at the bottom of the body It is best to place script
+      tags at the end of the body section, just before the closing /body tag.
+      This allows the HTML to be parsed and rendered before the JavaScript is
+      executed, improving perceived performance.
+    </p>
+
+    <p>
+      Use external script files For larger scripts or scripts used on multiple
+      pages, use external .js files referenced with the src attribute on script
+      tags. This keeps the HTML file clean and allows for caching of the
+      JavaScript file.
+    </p>
+    <p>
+      Avoid blocking the parser Avoid using document.write() in scripts, as it
+      can block the HTML parser and cause performance issues. Use async or defer
+      attributes to prevent parser blocking.
+    </p>
+
+    <script src="index.js"></script>
+  </body>
+</html>
