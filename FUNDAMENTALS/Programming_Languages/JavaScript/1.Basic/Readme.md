@@ -1,8 +1,8 @@
-## Variables
+## 1. Variables
 
 Variables are used to store data values. In JavaScript, we can declare variables using `var`, `let`, and `const` keywords.
 
-### 1. Declaration
+### Declaration
 
 ```javascript
 let age = 23;
